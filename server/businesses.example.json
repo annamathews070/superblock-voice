@@ -1,0 +1,11 @@
+[
+  {
+    "id": "demo-business",
+    "name": "Demo Business",
+    "phoneNumber": "+15551234567",
+    "phoneNumberId": "100000000000000",
+    "wabaId": "200000000000000",
+    "sipPassword": "your-sip-password-here",
+    "color": "emerald"
+  }
+]
